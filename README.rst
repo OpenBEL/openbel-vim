@@ -1,7 +1,7 @@
 Vim BEL
 =======
 
-Vim commands for syntax highlighting of BEL.
+Vim plugin for syntax highlighting of BEL Script.
 
 Installation
 ------------
