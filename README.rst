@@ -1,7 +1,7 @@
-Vim BEL
+VIM BEL
 =======
 
-Vim plugin for syntax highlighting of BEL Script.
+VIM plugin for syntax highlighting of BEL Script.
 
 Installation
 ------------
@@ -14,7 +14,7 @@ Installation
 
   git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
-#. Add the following snippet to your `~/.vimrc` file
+#. Add the following snippet to your ``~/.vimrc`` file
 
 .. code-block:: vim
 
@@ -27,9 +27,12 @@ Installation
 
   Bundle 'OpenBEL/openbel-vim'      " installs BEL syntax highlighter
 
+*Consult `Vundle for Windows`_ if using VIM on Windows.*
+
 **manual install**
 
-#. Copy bel.vim from the syntax directory to $HOME/.vim/syntax directory.
-#. Copy bel.vim from the ftdetect directory to $HOME/.vim/ftdetect directory.
+#. Copy bel.vim from the syntax directory to ``$HOME/.vim/syntax`` directory.
+#. Copy bel.vim from the ftdetect directory to ``$HOME/.vim/ftdetect`` directory.
 
 .. _vundle: https://github.com/gmarik/vundle
+.. _Vundle for Windows: https://github.com/gmarik/vundle/wiki/Vundle-for-Windows
