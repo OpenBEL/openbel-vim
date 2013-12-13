@@ -27,7 +27,7 @@ Installation
 
   Bundle 'OpenBEL/openbel-vim'      " installs BEL syntax highlighter
 
-*Consult `Vundle for Windows`_ if using VIM on Windows.*
+Consult `Vundle for Windows`_ if using VIM on Windows.
 
 **manual install**
 
